@@ -69,3 +69,14 @@ header p {
  font-size: 24px;
  margin-bottom: 1.5rem;
 }
+
+header div a {
+   background-color: #51279b;
+   color: white;
+   padding: 10px 20px;
+   text-decoration: none;
+   border-radius: 5px;
+ }
+ header div a:hover {
+     background-color: #8662c7;
+ }
